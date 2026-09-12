@@ -8,7 +8,7 @@ title: Chân dung nghề của tôi
 
 Nghề nhân viên an ninh mạng
 
-Vì sao: bởi tôi dành sự quan tâm lớn đối với bảo mật của bản thân và khách hàng, đặc biệt trên không gian mạng cũng như cách thức mà kẻ gian có thể lợi dụng lỗ hổng để tấn công hệ thống nhằm thực hiện các hành vi lừa đảo. Vì vậy tôi nghĩ đây là hướng đi phù hợp cho bản thân tôi
+Tôi dành sự quan tâm lớn đối với bảo mật của bản thân và khách hàng, đặc biệt trên không gian mạng cũng như cách thức mà kẻ gian có thể lợi dụng lỗ hổng để tấn công hệ thống nhằm thực hiện các hành vi lừa đảo. Vì vậy tôi nghĩ đây là hướng đi phù hợp cho bản thân tôi
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
@@ -36,6 +36,7 @@ Vì sao: bởi tôi dành sự quan tâm lớn đối với bảo mật của b�
 - AI viết: Lập trình và phát triển data pipeline
 - Tin tuyển dụng thật viết: không đề cập
 - Tôi sửa thành: Lập trình trên nhiều hệ điều hành và xây dựng project có kiến trúc rõ ràng
+- 
 **Chỗ thứ hai**
 
 - AI viết: Thực hiện kiểm thử xâm nhập (hộp đen, hộp xám, hộp trắng) và đánh giá an toàn thông tin đối với ứng dụng web, API, ứng dụng di động
