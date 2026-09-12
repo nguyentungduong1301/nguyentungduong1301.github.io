@@ -8,7 +8,7 @@ title: Chân dung nghề của tôi
 
 Nghề nhân viên an ninh mạng
 
-Vì sao: 
+Vì sao: bởi tôi dành sự quan tâm lớn đối với bảo mật của bản thân và khách hàng, đặc biệt trên không gian mạng cũng như cách thức mà kẻ gian có thể lợi dụng lỗ hổng để tấn công hệ thống nhằm thực hiện các hành vi lừa đảo. Vì vậy tôi nghĩ đây là hướng đi phù hợp cho bản thân tôi
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
@@ -27,35 +27,34 @@ Vì sao:
 | 2 | Cổ Phần Công Nghệ Quốc Tế Mh Solution | Toà nhà số 71-73, đường Trần Thánh Tông, Quận Cầu Giấy, Hà Nội | https://vieclam24h.vn/it-phan-mem/ky-su-du-lieu-data-engineer-c8p73id200881281.html?open_from=0201_1_8&search_id=133101ac31382de2dfa19df31e15e72f | 10/9/2026 |
 | 3 | TNHH MTV PT Công Viên Phần Mềm Quang Trung | Toà nhà QTSC building 1, CVPM Quang Trung, phường Tân Chánh Hiệp, Q.12, Tp HCM |https://vieclam24h.vn/it-phan-mem/nhan-vien-bao-mat-kiem-thu-bao-mat-pentest-c8p122id200916989.html?open_from=0201_1_5&search_id=b7431713da65e1e7aecc55ccb8d41368| 10/9/2026 |
 
-Ảnh chụp màn hình ba tin lưu trong thư mục `![ảnh chụp màn hình](https://github.com/nguyentungduong1301/nguyentungduong1301.github.io/tree/main/anh)`.
+Ảnh chụp màn hình ba tin lưu trong thư mục [ảnh chụp màn hình](https://github.com/nguyentungduong1301/nguyentungduong1301.github.io/tree/main/anh)
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
 **Chỗ thứ nhất**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
-
+- AI viết: Lập trình và phát triển data pipeline
+- Tin tuyển dụng thật viết: không đề cập
+- Tôi sửa thành: Lập trình trên nhiều hệ điều hành và xây dựng project có kiến trúc rõ ràng
 **Chỗ thứ hai**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: Thực hiện kiểm thử xâm nhập (hộp đen, hộp xám, hộp trắng) và đánh giá an toàn thông tin đối với ứng dụng web, API, ứng dụng di động
+- Tin tuyển dụng thật ra viết:  Nắm vững các nhóm lỗ hổng phổ biến của ứng dụng web và API, nguyên lý khai thác, mức độ ảnh hưởng và biện pháp khắc phục; hiểu quy trình đánh giá hộp trắng (white box), hộp xám (grey box) và hộp đen.
+- Tôi sửa thành: Thực hiện kiểm thử xâm nhập và đánh giá an toàn thông tin đối với ứng dụng web, API, ứng dụng di động và các hệ thống cung cấp dịch vụ cho khách hàng hoặc sử dụng nội bộ
 
 ## Một quyết định đạo đức
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: việc này chấp nhận được vì hệ điều hành vẫn bắt buộc hiển thị popup xin quyền GPS nên khi người dùng bấm "Cho phép" là đã chủ động đồng ý, đồng thời dữ liệu này chỉ phục vụ trực tiếp cho tính năng sản phẩm chứ không nhằm mục đích xâm phạm hay bán dữ liệu, do đó việc cập nhật tính năng trước rồi bổ sung văn bản Chính sách riêng tư vào đợt rà soát định kỳ tiếp theo là hoàn toàn linh hoạt và phù hợp trong vận hành.
+- Phía người dùng lập luận rằng: Việc này hoàn toàn không chấp nhận được vì thu thập vị trí khi chưa công khai trong Chính sách riêng tư là hành vi cố tình giấu giếm, tước bỏ quyền được biết và vi phạm nghiêm trọng pháp luật về bảo vệ dữ liệu cá nhân, khiến sự đồng ý khi bấm popup ở hệ thống trở nên vô hiệu và mang tính lừa dối, đồng thời đe dọa trực tiếp đến an toàn dữ liệu nhạy cảm và phá vỡ toàn bộ niềm tin của người dùng vào sản phẩm.
+- **Quyết định của tôi**, tôi sẽ không làm theo yêu cầu của sếp. Bởi dưới gốc độ là một người theo học ngành khoa học máy tính, đạo đức và sự trung thực nên là thứ được ưu tiên hàng đầu và việc đảm bảo cho sự an toàn về thông tin của người dùng là một yêu cầu cần thiết không thể ngó lơ
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Đi hết cả 4 hướng nghề nhằm chọn ra hướng đi phù hợp nhất cho bản thân
+2. Hiểu rõ và thực hiện những nhiệm vụ cần thiết cho hướng nghề mà bản thân đã lựa chọn
+3. Nghiêm túc học tập, phát triển kiến thức và năng lực của bản thân đối cho nhóm nghề, chuẩn bị cho học kì sau và khi ra trường
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -63,9 +62,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Hỏi AI cách lập thư mục 'anh/' theo yêu cầu của bài |
+| **Hoài** | Nhờ AI với vai trò Generator tạo ra bảng "ASK" nhằm nghiên cứu và bắt lỗi AI cho 3 tin tuyển dụng |
+| **Học** | Nhờ AI với vai trò Sparring trả lời tình huống ở phần 1 dưới hai vai trò nhằm tìm ra quyết định đúng đắn nhất |
+| **Hành** | Không dùng |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: Gemini AI của Google
