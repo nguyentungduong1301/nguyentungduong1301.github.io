@@ -63,9 +63,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | Hỏi AI cách lập thư mục 'anh/' theo yêu cầu của bài |
-| **Hoài** | Nhờ AI với vai trò Generator tạo ra bảng "ASK" nhằm nghiên cứu và bắt lỗi AI cho 3 tin tuyển dụng |
-| **Học** | Nhờ AI với vai trò Sparring trả lời tình huống ở phần 1 dưới hai vai trò nhằm tìm ra quyết định đúng đắn nhất |
-| **Hành** | Không dùng |
+| **Hỏi** | Hỏi AI cách lập thư mục 'anh/' theo yêu cầu của bài. Hỏi lần 1 AI yêu cầu tạo folder ảnh. Lần 2 AI đưa ra cú pháp "![Tên hiển thị](đường-dẫn-tương-đối-đến-thư-mục)".Lần 3 AI trả lời cần xóa dấu chấm thang để hoàn thiện|
+| **Hoài** | Nhờ AI với vai trò Generator tạo ra bảng "ASK" sơ khai, sau đó yêu cầu AI tạo bảng "ASK" hoàn chỉnh với yêu cầu bài đưa ra. Sau khi có bảng ASK thì tự tay truy cập 3 đường link tin tuyển dụng để đối chiếu và tìm ra 2 điểm sai của AI theo quy trình "FACT" (có ghi kết quả ở trên)|
+| **Học** | Nhờ AI với vai trò Sparring trả lời tình huống ở phần 1 dưới hai vai trò. Ở prompt luật sư, AI đề cập đến những điều khoản mà không giải thích về lí do cho việc "vì sao không đề cập đến việc thu thập vị trí của người dùng trong chính sách", theo quy định phải khai báo khi xuất bản ứng dụng của CH Play. Trong khi prompt khách hàng AI phản đối có phần gay gắt hơn. Vì vậy quyết định cuối cùng được đưa ra là *giữ nguyên quan điểm không làm theo yêu cầu của sếp* (như đã ghi ở bản nháp) |
+| **Hành** | Giữ lại liên kết đến folder ảnh ở H1, bảng ASK của AI tạo ở H2 và 2 prompt luật sư và khách hàng ở H3. Sửa lại 2 lỗi mà AI mắc phải ở H2 đồng thời giữ nguyên quan điểm "không làm theo yêu cầu của sếp" ở H3 cũng hoàn thiện hơn "3 mục tiêu cần làm trong học kì này" ở H4 |
 
 Công cụ đã dùng: Gemini AI của Google
