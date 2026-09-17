@@ -15,14 +15,14 @@ Nghề nhân viên an ninh mạng
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
 | 1 | POS104<br>POS105<br>POS106<br>ENC120<br>ENS192<br>LAW106<br>SKL115| Kinh tế chính trị Mác - Lênin<br>Chủ nghĩa xã hội khoa học<br>Anh ngữ 1<br><br> Pháp luật đại cương<br>Tư duy thiết kế dự án| 3<br>2<br>2<br>3<br>3<br>3<br>3 |
-| 2 |  COS673<br>MAT101<br>MAT118<br>MAT104<br>CMP1074<br>CMP3075<br>ENC121<br>CMP3014<br>PHT313| Nhập môn ngành Khoa học máy tính<br>Đại số tuyến tính<br>Giải tích<br>Toán rời rạc<br>Cơ sở lập trình<br>Thực hành cơ sở lập trình<br>Anh ngữ 2<br>Thực hành lý thuyết đồ thị<br>Vovinam 1 | 3<br>3<br>3<br>3<br>3<br>1<br>3<br>1<br>2 |
+| 2 |  COS673<br>MAT101<br>MAT118<br>MAT104<br>CMP1074<br>CMP3075<br>ENC121<br>CMP3014<br>PHT313| Nhập môn ngành Khoa học máy tính<br>Đại số tuyến tính<br>Giải tích<br>Toán rời rạc<br>Cơ sở lập trình<br>Thực hành cơ sở lập trình<br>Anh ngữ 2<br>Thực hành lý thuyết đồ thị<br>Vovinam 1 (không tích lũy)| 3<br>3<br>3<br>3<br>3<br>1<br>3<br>1<br>2 |
 
 ### Năm hai
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 3 | POS107<br>SKL116<br>MAT105<br>CMP164<br>CMP365<br>CMP167<br>CMP368<br>COS135<br>PHT314 |Lịch sử Đảng Cộng sản Việt Nam<br>Đổi mới sáng tạo và tư duy khởi nghiệp<br>Xác suất thống kê<br>Kỹ thuật lập trình<br>Thực hành kỹ thuật lập trình<br>Lập trình hướng đối tượng<br>Thực hành lập trình hướng đối tượng<br>Nhập môn cơ sở dữ liệu<br>Vovinam 2|2<br>3<br>3<br>3<br>1<br>3<br>1<br>3<br>2  |
-| 4 | COS323<br>AIT1002<br>AIT3007<br>CMP172<br>CMP373<br>ENC122<br>COS1002<br>COS324<br>COS120<br>PHT315 | Thực hành cơ sở dữ liệu<br>Nghệ thuật lập trình với hỗ trợ trí nhân tạo<br>Thực hành nghệ thuật lập trình với hỗ trợ trí nhân tạo<br>Mạng máy tính<br>Thực hành mạng máy tính<br>Anh ngữ 3<br>Các hệ quản trị cơ sở dữ liệu<br>Thực hành quản trị cơ sở dữ liệu<br>Cấu trúc dữ liệu và giải thuật<br>Vovinam 3 |1<br>3<br>1<br>3<br>1<br>3<br>3<br>1<br>3<br>1  |
+| 3 | POS107<br>SKL116<br>MAT105<br>CMP164<br>CMP365<br>CMP167<br>CMP368<br>COS135<br>PHT314 |Lịch sử Đảng Cộng sản Việt Nam<br>Đổi mới sáng tạo và tư duy khởi nghiệp<br>Xác suất thống kê<br>Kỹ thuật lập trình<br>Thực hành kỹ thuật lập trình<br>Lập trình hướng đối tượng<br>Thực hành lập trình hướng đối tượng<br>Nhập môn cơ sở dữ liệu<br>Vovinam 2 (không tích lũy)|2<br>3<br>3<br>3<br>1<br>3<br>1<br>3<br>2  |
+| 4 | COS323<br>AIT1002<br>AIT3007<br>CMP172<br>CMP373<br>ENC122<br>COS1002<br>COS324<br>COS120<br>PHT315 | Thực hành cơ sở dữ liệu<br>Nghệ thuật lập trình với hỗ trợ trí nhân tạo<br>Thực hành nghệ thuật lập trình với hỗ trợ trí nhân tạo<br>Mạng máy tính<br>Thực hành mạng máy tính<br>Anh ngữ 3<br>Các hệ quản trị cơ sở dữ liệu<br>Thực hành quản trị cơ sở dữ liệu<br>Cấu trúc dữ liệu và giải thuật<br>Vovinam 3 (không tích lũy)|1<br>3<br>1<br>3<br>1<br>3<br>3<br>1<br>3<br>1  |
 
 ### Năm ba
 
@@ -35,7 +35,7 @@ Nghề nhân viên an ninh mạng
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 7 | POS103<br>CMP5089<br>CMP174<br>AIT108<br>AIT307<br>COS159<br>COS1010<br>CMP1020 | Tư tưởng Hồ Chí Minh<br>Thực tập điện toán đám mây<br>Bảo mật thông tin<br>Xử lý ảnh và ứng dụng<br>Thực hành xử lý ảnh và ứng dụng<br>Đồ hoạ ứng dụng trong Khoa học máy tính<br>Cơ sở công nghệ chuỗi khối<br>Học sâu | 2<br>1<br>3<br>3<br>1<br>3<br>3<br>3  |
+| 7 | POS103<br>CMP5089<br>CMP174<br>AIT108<br>AIT307<br>COS159<br>COS1010<br>CMP1020 | Tư tưởng Hồ Chí Minh<br>Thực tập điện toán đám mây<br>Bảo mật thông tin<br>Xử lý ảnh và ứng dụng<br>Thực hành xử lý ảnh và ứng dụng<br>Đồ hoạ ứng dụng trong Khoa học máy tính<br>Cơ sở công nghệ chuỗi khối<br>Học sâu | 2<br>1<br>3<br>3<br>1<br>3<br>3<br>3   |
 | 8 | AIT109<br>CMP1049<br>AIT123<br>COS464<br>COS570 | Xử lý ngôn ngữ tự nhiên và ứng dụng<br>Khai thác dữ liệu<br>Mô hình ngôn ngữ lớn<br>Đồ án chuyên ngành Khoa học máy tính<br>Thực tập tốt nghiệp ngành Khoa học máy tính | 3<br>3<br>3<br>3<br>3 |
 
 **Tổng cộng: 150 tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
@@ -46,6 +46,10 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 - Kỳ nặng nhất là kỳ 8, vì đây là năm quyết định và cũng là năm kết thúc giáo trình học 4 năm nên dù ít tín chỉ, nó là kỳ học quan trọng bậc nhất và nặng nhất
 - Môn "Cơ sở lập trình" phải học trước môn "Kỹ thuật lập trình" vì cơ sở lập trình là môn kiến thức nền tảng, phải học xong và hoàn thành môn trên điểm đậu thì mới được đăng kí và học tiếp môn kỹ thuật lập trình
 - Kỳ 1 tôi để nhẹ vì đây là học kì đầu tiên nhằm giúp tân sinh viên làm quen với kiến thức nền tảng của ngành trước khi giảng viên nâng cao mức độ giảng dạy của các môn học
+
+## Môn tự chọn ##
+
+Môn mà em tự chọn là môn (COS165) Hệ thống gợi ý bới đối với nghề nhân viên an ninh mạng, việc tìm ra lỗ hổng và cách thức mà kẻ gian có thể tấn công hệ thống là một công việc rất khó khăn và tốn rất nhiều thời gian. Hệ thống gợi ý lúc này đóng vai trò là một thám tử, lùng ra các cách khác nhau mà kẻ gian có thể lợi dụng để tấn công hệ thống, giảm thiểu phần lớn thời gian tìm kiếm đi rất nhiều, thuận tiện hơn cho công việc
 
 ## Ba chỗ AI nói sai
 
