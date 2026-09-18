@@ -14,7 +14,7 @@ Nghề nhân viên an ninh mạng
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 1 | POS104<br>POS105<br>POS106<br>ENC120<br>ENS192<br>LAW106<br>SKL115| Kinh tế chính trị Mác - Lênin<br>Chủ nghĩa xã hội khoa học<br>Anh ngữ 1<br><br> Pháp luật đại cương<br>Tư duy thiết kế dự án| 3<br>2<br>2<br>3<br>3<br>3<br>3 |
+| 1 | POS104<br>POS105<br>POS106<br>ENC120<br>ENS192<br>LAW106<br>SKL115|Triết học Mác - Lenin<br> Kinh tế chính trị Mác - Lênin<br>Chủ nghĩa xã hội khoa học<br>Anh ngữ 1<br>Phát triển bền vững<br>Pháp luật đại cương<br>Tư duy thiết kế dự án| 3<br>2<br>2<br>3<br>3<br>3<br>3 |
 | 2 |  COS673<br>MAT101<br>MAT118<br>MAT104<br>CMP1074<br>CMP3075<br>ENC121<br>CMP3014<br>PHT313| Nhập môn ngành Khoa học máy tính<br>Đại số tuyến tính<br>Giải tích<br>Toán rời rạc<br>Cơ sở lập trình<br>Thực hành cơ sở lập trình<br>Anh ngữ 2<br>Thực hành lý thuyết đồ thị<br>Vovinam 1 (không tích lũy)| 3<br>3<br>3<br>3<br>3<br>1<br>3<br>1<br>2 |
 
 ### Năm hai
