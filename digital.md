@@ -4,8 +4,6 @@ title: Dấu chân số của tôi
 
 # Dấu chân số của tôi
 
-> **Bài 4 · Xoá dòng này khi nộp.**
-
 ## Tôi tự tìm tên mình và thấy gì
 
 Không tìm thấy bản thân mà chỉ thấy người khác
@@ -34,14 +32,3 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 1. Học tập, nghiên cứu nhiều hơn về việc học và phát triển kĩ năng số
 2. Hiểu và biết cách sáng tạo nội dung số phục vụ cho sau này
 3. Tăng cường khả năng chủ động trong các hoạt động quan trọng của nhóm
-
-## Tôi đã làm việc với AI thế nào
-
-Ở bài này AI đóng vai **người kèm cặp**: nó hỏi ngược lại tôi thay vì đưa đáp án.
-
-| Bước | Tôi đã làm gì |
-|---|---|
-| **Hỏi** | Hỏi AI dưới vai trò người kèm cập để biết bản thân mình ở mức nào sau khi viết v0. AI giúp hiểu được nguyên nhân và lý do mình ở mức nào và đã ghi lại ở bảng trên kèm bằng chứng |
-| **Hoài** | Tìm 3 lỗi AI. AI đưa ra các dịch vụ lạ như passkey, 2FA; các ứng dụng chưa nghe bao giờ như Trello và Slack; AI cũng đưa ra câu trả lời chung chung như "Cập nhật và thích ứng" |
-| **Học** | … |
-| **Hành** | … |
