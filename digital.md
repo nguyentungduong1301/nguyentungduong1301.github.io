@@ -33,7 +33,8 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 2. Hiểu và biết cách sáng tạo nội dung số phục vụ cho sau này
 3. Tăng cường khả năng chủ động trong các hoạt động quan trọng của nhóm
 
-##Bảy dấu hiệu nhận biết lừa đảo##
+## Bảy dấu hiệu nhận biết lừa đảo
+
 | # | Dấu hiệu nhận biết lừa đảo | Mẫu | Lý do kết luận |
 |---|---|---|---|
 | 1 | Sự vội bất thường | 2 và 3   | Bên tự xưng yêu cầu làm gấp trong 24h ở mẫu 2 và trước 17h ở mẫu 3 để khách hàng bị lo và làm theo yêu cầu mà không ghi địa chỉ giao sai cũng như đặt phí lưu kho hàng cao ngất ngưởng (đối với mẫu 3)  |
