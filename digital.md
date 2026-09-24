@@ -32,3 +32,14 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 1. Học tập, nghiên cứu nhiều hơn về việc học và phát triển kĩ năng số
 2. Hiểu và biết cách sáng tạo nội dung số phục vụ cho sau này
 3. Tăng cường khả năng chủ động trong các hoạt động quan trọng của nhóm
+
+##Bảy dấu hiệu nhận biết lừa đảo##
+| # | Dấu hiệu nhận biết lừa đảo | Mẫu | Lý do kết luận |
+|---|---|---|---|
+| 1 | Sự vội bất thường | 2 và 3 | Bên tự xưng yêu cầu làm gấp trong 24h ở mẫu 2 và trước 17h ở mẫu 3 để khách hàng bị lo và làm theo yêu cầu mà không ghi địa chỉ giao sai cũng như đặt phí lưu kho hàng cao ngất ngưởng (đối với mẫu 3) |
+| 2 | Địa chỉ gửi lệch một ký tự | 2 | Ngân hàng tên là "TVB Bank" nhưng trong link chỉ ghi "tvbank" thiếu đi chữ B thương hiệu |
+| 3 | Đường dẫn không khớp chữ hiển thị | 2 | Đường dẫn "tvbank.vn-secure24.top/xacthuc" trong mẫu là một đường dẫn rất đáng ngờ  |
+| 4 | Xin thông tin mà tổ chức thật đã có |  |  |
+| 5 | Xưng hô chung chung | 2 và 3 | Đối với những vấn đề nghiêm trọng như tạm khóa tài khoản ở tin 2 và bắt đóng phí tồn kho ở tin 3 thì tổng đài sẽ thường phải ghi tên người hưởng thụ là ai để xác nhận, đó là những yêu cầu bắt buộc đối với trường hợp nghiêm trọng ghi trên mẫu |
+| 6 | Phần thưởng quá dễ |  |  |
+| 7 | Kênh liên lạc lệch chuẩn | 3 | Thông báo hàng lưu kho nhưng người nhắn lại là một cá nhân tự xưng và là tài khoản ngân hàng của cá nhân trên thay vì tài khoản giao dịch cuả công ty/tổ chức |
