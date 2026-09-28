@@ -32,6 +32,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 1. Học tập, nghiên cứu nhiều hơn về việc học và phát triển kĩ năng số
 2. Hiểu và biết cách sáng tạo nội dung số phục vụ cho sau này
 3. Tăng cường khả năng chủ động trong các hoạt động quan trọng của nhóm
+4. Chủ động hơn trong việc tạo dấu ấn có ích của bản thân nhằm phục vụ cho nhu cầu học tập và ứng tuyển sâu này
 
 ## Bảy dấu hiệu nhận biết lừa đảo
 
