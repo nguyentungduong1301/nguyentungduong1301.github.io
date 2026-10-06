@@ -21,14 +21,15 @@ giọng của nó không đổi dù đúng hay sai.
 
 ## Chấm câu
 
-# Chấm theo thang điểm 1-4: chính xác · đầy đủ · bối cảnh · logic · giá trị thực.
+**Chấm theo thang điểm 1-4: chính xác · đầy đủ · bối cảnh · logic · giá trị thực.** 
+
 | # | Điểm | Lý do |
 |---|---|---|
-| Câu 1 | 4 | Đúng có thể dùng được trong thực tế |
-| Câu 2 | 4 | Đúng có thể dùng được trong học tập |
-| Câu 3 | 2 | Sai so với trường Hutech |
-| Câu 4 | 2 | Sai so với trường Hutech |
-| Câu 5 | 3 | Đúng nhưng giá trị thực tế thấp |
+| Câu 1 | 4 |Đúng có thể dùng được trong thực tế|
+| Câu 2 | 4 |Đúng có thể dùng được trong học tập|
+| Câu 3 | 2 | Sai so với trường Hutech          |
+| Câu 4 | 2 | Sai so với trường Hutech          |
+| Câu 5 | 3 | Đúng nhưng giá trị thực tế thấp   |
 
 Đính kèm [bằng chứng](https://github.com/nguyentungduong1301/nguyentungduong1301.github.io/tree/main/b%E1%BA%B1ng%20ch%E1%BB%A9ng) tránh ảo giác ghi rõ ngày và giờ
 
