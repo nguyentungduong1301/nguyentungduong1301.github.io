@@ -30,6 +30,8 @@ giọng của nó không đổi dù đúng hay sai.
 | Câu 4 | 2 | Sai so với trường Hutech |
 | Câu 5 | 3 | Đúng nhưng giá trị thực tế thấp |
 
+Đính kèm [bằng chứng](https://github.com/nguyentungduong1301/nguyentungduong1301.github.io/tree/main/b%E1%BA%B1ng%20ch%E1%BB%A9ng) tránh ảo giác ghi rõ ngày và giờ
+
 
 ## Năm quy tắc dùng AI của riêng tôi
 
