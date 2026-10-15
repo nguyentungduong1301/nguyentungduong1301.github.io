@@ -8,11 +8,12 @@ title: Hồ sơ nhập ngành
      Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
      Sau khi điền, làm phép thử sáu giây với hai bạn cùng lớp.               -->
 
-Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
+Sinh viên năm nhất Khoa học máy tính · đang đi về hướng An ninh mạng
 
-- … việc đã làm số 1, kèm một con số → [career.md](career.md)
-- … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
-- … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
+- 3 bảng CV, 2 chỗ bắt được AI tự thêm → [career.md](career.md)
+- 8 học kì, 1 bảng lộ trình lớn → [roadmap.md](roadmap.md)
+- 7 nhóm năng lực, 4 việc sẽ sửa, 3 mẫu phát hiện lừa đảo → [digital.md](digital.md)
+- 5 câu hỏi, 5 quy tắc dùng AI → [ai-audit.md](ai-audit.md)
 
 @nguyentungduong1301 · <https://nguyentungduong1301.github.io>
 
@@ -36,4 +37,4 @@ Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
 
-*Cập nhật lần cuối: … · Liên hệ: @nguyentungduong1301*
+*Cập nhật lần cuối: 15/10/2026 · Liên hệ: @nguyentungduong1301*
